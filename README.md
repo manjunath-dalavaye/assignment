@@ -1,7 +1,10 @@
-<h1>ENTNT Dashboard</h1>
+<div align="center">
+  <h1>ENTNT Dashboard</h1>
+  <hr style="width: 50%;">
+</div>
 <hr>
 <h3>Technologies Used</h3>
-<h2>React, React Router, css3</h2>
+<h4>React, React Router, css3</h4>
 <hr>
 <h2>Dashboard</h2>
 <img width="929" alt="dashboard" src="https://github.com/manjunath-dalavaye/assignment/assets/111382056/49c74b16-600f-495a-a59a-f80c613c9980">
