@@ -26,7 +26,7 @@
   }
   
   .react-calendar__tile--active {
-    background-color: #2ecc71;
+    background-color: #64c4e1;
     color: #fff;
   }
   
@@ -99,15 +99,15 @@
       max-width: 100%;
     }
   }
-  .calendar-container {
+  /* .calendar-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 50px;
-    background: linear-gradient(45deg, #30cfd0, #330867);
+    background: linear-gradient(4deg, #78a0a0, #7442b3);
     border-radius: 5px;
     color: white;
-  }
+  } */
   
   .calendar-wrapper {
     width: 50%;
@@ -203,7 +203,7 @@
     font-weight: bold;
   }
   .react-calendar__tile--active { 
-    background-color: #30cfd0; color: white; 
+    background-color: #0f1919; color: white; 
   }
   
   .react-calendar__tile--hover:enabled {
@@ -211,7 +211,7 @@
     }
   
   .react-calendar__tile--now { 
-    background-color: #3498db; 
+    background-color: #87b8d8; 
     color: white; 
     font-weight: bold; 
   }
@@ -244,23 +244,43 @@
   }
   
   .react-calendar__month-view__weekdays__weekday:first-child { 
-    color: #30cfd0; 
+    display: flex;
+    justify-content: center;
+    color: #010f0f; 
   }
   
   .react-calendar__month-view__weekdays__weekday:nth-child(2) { 
-    color: #2ecc71; 
+    display: flex;
+    justify-content: center;
+    color: #06130b; 
   }
   
   .react-calendar__month-view__weekdays__weekday:nth-child(3) { 
-    color: #f1c40f; 
+    display: flex;
+    justify-content: center;
+    color: #100d05; 
   }
   
   .react-calendar__month-view__weekdays__weekday:nth-child(4) { 
-    color: #e74c3c; 
+    display: flex;
+    justify-content: center;
+    color: #0e071a; 
   }
   
+  .react-calendar__month-view__weekdays__weekday:nth-child(5) { 
+    display: flex;
+    justify-content: center;
+    color: #07040d; 
+  }
+  .react-calendar__month-view__weekdays__weekday:nth-child(6) { 
+    display: flex;
+    justify-content: center;
+    color: #0e0918; 
+  }
   .react-calendar__month-view__weekdays__weekday:last-child { 
-    color: #e67e22; 
+    display: flex;
+    justify-content: center;
+    color: #07160b; 
   }
   
   .react-calendar__navigation button:focus { 

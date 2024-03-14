@@ -20,6 +20,9 @@ function Dashboard() {
             <button>Products Management</button>
           </Link>
         </div>
+      </div>
+
+      <div className="dashboard-summary wide">
         <div className="dashboard-metric">
           <h3>Total Orders</h3>
           <p>{totalOrders}</p>
@@ -27,11 +30,14 @@ function Dashboard() {
             <button>Orders Management</button>
           </Link>
         </div>
+      </div>
+
+      <div className="dashboard-summary wide">
         <div className="dashboard-metric">
-          <h3>View Calender</h3>
-          <p>{totalOrders+totalProducts}</p>
+          <h3>View Calendar</h3>
+          <p>{totalOrders + totalProducts}</p>
           <Link to="/calendar">
-            <button>Calender</button>
+            <button>Calendar</button>
           </Link>
         </div>
       </div>

@@ -28,7 +28,7 @@ body {
 .dashboard-summary button {
   padding: 10px 20px;
   font-size: 14px;
-  background-color: #64ca67;
+  background-color: #76e1ef;
   color: white;
   border-radius: 5px;
   cursor: pointer;
@@ -36,7 +36,7 @@ body {
 }
 
 .dashboard-summary button:hover {
-  background-color: #4caf50;
+  background-color: #bce057;
 }
 
 @media (max-width: 600px) {
@@ -52,9 +52,9 @@ body {
   }
 }
 :root {
-  --primary-color: #64ca67;
+  --primary-color: #90cdeb;
   --secondary-color: #f0f0f0;
-  --background-color: #ffffff;
+  --background-color: #ffffff78;
   --text-color: #333333;
 }
 
@@ -81,7 +81,7 @@ body {
 }
 
 .dashboard-summary button:hover {
-  background-color: #4caf50;
+  background-color: #3b8cd8;
 }
 .dashboard-metric {
   text-align: center;
@@ -160,7 +160,7 @@ body {
 }
 
 .nav-button:hover {
-  background-color: #4caf50;
+  background-color: #62b0e1;
 }
 .navbar {
   display: flex;
@@ -206,7 +206,7 @@ body {
 }
 
 .navbar-link:hover {
-  background-color: #4caf50;
+  background-color: #dcdc46;
 }
 
 .navbar-link-cta {
@@ -234,10 +234,10 @@ body {
   transition: transform 0.3s ease-in-out;
 }
 
-.dashboard-metric:hover {
+/* .dashboard-metric:hover {
   transform: translateY(-5px);
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-}
+} */
 
 .dashboard-metric h2 {
   font-size: 1.25rem;

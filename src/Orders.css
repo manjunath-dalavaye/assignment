@@ -80,7 +80,7 @@
     }
   
     .view-button {
-      background-color: #64ca67;
+      background-color: #d794e1;
       padding: 7px;
       color: white;
       border-radius: 5px;
@@ -96,7 +96,7 @@
   
     
     .view-button:hover{
-      background-color: #4caf50;
+      background-color: #c48bd7;
     }
     
     @media (max-width: 600px) {

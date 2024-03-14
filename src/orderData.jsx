@@ -1,10 +1,8 @@
 const initialOrders = [
-    { id: 1, customerName: 'John Doe', orderDate: '2024-01-5', status: 'Pending' },
-    { id: 2, customerName: 'Jane Smith', orderDate: '2024-02-2', status: 'Shipped' },
-    { id: 3, customerName: 'Bob Johnson', orderDate: '2024-03-15', status: 'Delivered' },
-    { id: 4, customerName: 'David', orderDate: '2024-03-10', status: 'Pending' },
-    { id: 5, customerName: 'dawyn', orderDate: '2024-03-10', status: 'Shipped' },
-    // ... add more orders as needed
+    { id: 1, customerName: 'Manjunath', orderDate: '2024-14-2', status: 'Pending' },
+    { id: 2, customerName: 'Aravind', orderDate: '2024-13-2', status: 'Shipped' },
+    { id: 3, customerName: 'starc', orderDate: '2024-11-3', status: 'Delivered' },
+    { id: 4, customerName: 'smith', orderDate: '2024-09-1', status: 'waiting' },
   ];
   
   export default initialOrders;
