@@ -2,8 +2,8 @@
   <h1>ENTNT Dashboard</h1>
   <hr style="width: 50%;">
 </div>
-<h3>Technologies Used</h3>
-<h4>React, React Router Dom,React calender, React model, Recat hooks,  css</h4>
+<h2>Technologies Used</h2>
+<h3>React, React Router Dom,React calender, React model, Recat hooks,  css</h3>
 <hr>
 <h2>Dashboard</h2>
 <img width="929" alt="dashboard" src="https://github.com/manjunath-dalavaye/assignment/assets/111382056/49c74b16-600f-495a-a59a-f80c613c9980">
