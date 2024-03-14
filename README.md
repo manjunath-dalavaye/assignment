@@ -2,7 +2,6 @@
   <h1>ENTNT Dashboard</h1>
   <hr style="width: 50%;">
 </div>
-<hr>
 <h3>Technologies Used</h3>
 <h4>React, React Router, css3</h4>
 <hr>
